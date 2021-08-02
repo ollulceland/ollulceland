@@ -2,9 +2,9 @@
 
 🎍 I’m interested in Fintech and I enjoy working in Python. 
 
-💻 I really appreciate the concept of STEAM (Science, Technology, Engineering, Arts, Mathematics) and I hope to maintain a good aesthetics in my programming projects.
+💻 I really appreciate the concept of STEAM (Science, Technology, Engineering, Arts, Mathematics) and I hope to maintain a good aesthetics throughout my programming projects.
 
-🌱 I’m currently learning Data and SQL programming with Code First Girls.
+🌱 I’m currently learning python, Data and SQL programming with Code First Girls.
 
 💞️ I’m looking to collaborate on ...
 
